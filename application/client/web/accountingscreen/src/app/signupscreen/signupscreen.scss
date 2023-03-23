@@ -3,7 +3,10 @@
 }
 
 body {
-    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
 }
 
 * {
@@ -11,10 +14,7 @@ body {
 }
 
 body {
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-bottom: 0px;
-    margin-left: 0px;
+    margin: 0;
 }
 
 .gjs-row {
@@ -57,12 +57,6 @@ body {
     margin-left: 100px;
 }
 
-#template-i07ch {
-    color: black;
-    width: 30%;
-    height: 50%;
-}
-
 #template-is0h {
     display: flex;
     align-items: center;
@@ -72,7 +66,7 @@ body {
 #template-ine2o {
     align-items: center;
     justify-content: center;
-    transform: translateX(0px) translateY(0px);
+    transform: translateX(0px)translateY(0px);
     min-height: auto;
 }
 
@@ -90,10 +84,10 @@ body {
     border-right-style: solid;
     border-bottom-style: solid;
     border-left-style: solid;
-    border-top-color: rgb(208, 208, 208);
-    border-right-color: rgb(208, 208, 208);
-    border-bottom-color: rgb(208, 208, 208);
-    border-left-color: rgb(208, 208, 208);
+    border-top-color: rgb(208208208);
+    border-right-color: rgb(208208208);
+    border-bottom-color: rgb(208208208);
+    border-left-color: rgb(208208208);
     border-image-source: initial;
     border-image-slice: initial;
     border-image-width: initial;
@@ -116,15 +110,10 @@ body {
     margin-left: 350px;
 }
 
-#template-i14nk {
-    color: black;
-    width: 40px;
-}
-
 #template-irhkf {
     font-size: 15px;
-    color: rgb(4, 4, 4);
-    font-family: Helvetica, sans-serif;
+    color: rgb(444);
+    font-family: Helveticasans-serif;
 }
 
 #template-inbe9 {
@@ -180,7 +169,7 @@ body {
 }
 
 #template-ixis9 {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(255255255);
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -193,10 +182,10 @@ body {
     border-right-style: solid;
     border-bottom-style: solid;
     border-left-style: solid;
-    border-top-color: rgb(208, 208, 208);
-    border-right-color: rgb(208, 208, 208);
-    border-bottom-color: rgb(208, 208, 208);
-    border-left-color: rgb(208, 208, 208);
+    border-top-color: rgb(208208208);
+    border-right-color: rgb(208208208);
+    border-bottom-color: rgb(208208208);
+    border-left-color: rgb(208208208);
     border-image-source: initial;
     border-image-slice: initial;
     border-image-width: initial;
@@ -215,7 +204,7 @@ body {
 }
 
 #template-il7xq {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(255255255);
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -228,10 +217,10 @@ body {
     border-right-style: solid;
     border-bottom-style: solid;
     border-left-style: solid;
-    border-top-color: rgb(208, 208, 208);
-    border-right-color: rgb(208, 208, 208);
-    border-bottom-color: rgb(208, 208, 208);
-    border-left-color: rgb(208, 208, 208);
+    border-top-color: rgb(208208208);
+    border-right-color: rgb(208208208);
+    border-bottom-color: rgb(208208208);
+    border-left-color: rgb(208208208);
     border-image-source: initial;
     border-image-slice: initial;
     border-image-width: initial;
@@ -262,7 +251,7 @@ body {
     padding-right: 10px;
     padding-bottom: 10px;
     padding-left: 10px;
-    font-family: Georgia, serif;
+    font-family: Georgiaserif;
     font-size: 13px;
 }
 
@@ -276,7 +265,7 @@ body {
     margin-right: 0px;
     margin-bottom: 0px;
     margin-left: 10px;
-    font-family: Helvetica, sans-serif;
+    font-family: Helveticasans-serif;
 }
 
 #template-ihqp9 {
@@ -286,12 +275,12 @@ body {
     padding-bottom: 5px;
     padding-left: 5px;
     min-width: 50px;
-    color: rgb(109, 132, 255);
-    font-family: Helvetica, sans-serif;
+    color: rgb(109132255);
+    font-family: Helveticasans-serif;
 }
 
 #template-i0y5g {
-    font-family: Helvetica, sans-serif;
+    font-family: Helveticasans-serif;
 }
 
 #template-imjh6 {
@@ -301,8 +290,8 @@ body {
     padding-bottom: 5px;
     padding-left: 5px;
     min-width: 50px;
-    color: rgb(109, 132, 255);
-    font-family: Helvetica, sans-serif;
+    color: rgb(109132255);
+    font-family: Helveticasans-serif;
 }
 
 #template-ixp92 {
@@ -331,7 +320,7 @@ body {
 #template-if1j8 {
     width: 100%;
     height: 50px;
-    background-color: rgb(109, 132, 255);
+    background-color: rgb(109132255);
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -341,7 +330,7 @@ body {
 #template-ily9v {
     display: flex;
     flex-basis: 50%;
-    transform: translateX(0px) translateY(0px);
+    transform: translateX(0px)translateY(0px);
     margin-top: 0px;
     margin-right: 50px;
     margin-bottom: 0px;
@@ -363,7 +352,7 @@ body {
 }
 
 #template-i4t79 {
-    color: rgb(6, 6, 6);
+    color: rgb(666);
     font-weight: 600;
     font-size: 20px;
 }
@@ -384,8 +373,8 @@ body {
 }
 
 #template-i1ve4 {
-    color: rgb(55, 55, 55);
-    font-family: Helvetica, sans-serif;
+    color: rgb(555555);
+    font-family: Helveticasans-serif;
 }
 
 #template-il40s {
@@ -395,10 +384,21 @@ body {
     padding-bottom: 5px;
     padding-left: 5px;
     min-width: 50px;
-    color: rgb(109, 132, 255);
+    color: rgb(109132255);
 }
 
-@media (max-width: 768px) {
+#template-i71sg {
+    color: black;
+    width: 40px;
+}
+
+#template-ijkzj {
+    color: black;
+    width: 30%;
+    height: 50%;
+}
+
+@media(max-width:768px) {
     .gjs-row {
         flex-wrap: wrap;
     }

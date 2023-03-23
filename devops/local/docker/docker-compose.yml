@@ -225,7 +225,7 @@ services:
     image: systementry-7229
     container_name: systementry-7229
     ports: 
-      - 8012:8012
+      - 8014:8014
     env_file: .env
     depends_on:
       - mongo
@@ -244,7 +244,7 @@ services:
     image: screenaccounts-7229
     container_name: screenaccounts-7229
     ports: 
-      - 8013:8013
+      - 8015:8015
     env_file: .env
     depends_on:
       - mongo
