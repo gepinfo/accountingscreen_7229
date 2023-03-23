@@ -1,0 +1,49 @@
+<svg version="1.1" baseProfile="full" width="359.0" height="246.0" viewbox="0 0 359 246" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events">
+<desc >#.interface: fill=lightblue
+#.enumeration: fill=lightgreen
+#.type: fill=lightgray
+[&lt;interface&gt;app|+created_date_at: { type: Date; };+created_by: { type: String; };+last_modified_by: { type: String; };+last_modified_date_at: { type: Date; };+name: String|]</desc>
+<g stroke-width="1.0" text-align="left" font="12pt Helvetica, Arial, sans-serif" font-size="12pt" font-family="Helvetica" font-weight="normal" font-style="normal">
+<g transform="translate(0.5, 0.5)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round" stroke="#33322E">
+<g stroke="transparent" fill="transparent">
+<rect x="0.0" y="0.0" height="246.0" width="359.0" stroke="none"></rect>
+</g>
+<g transform="translate(8, 8)" fill="#33322E">
+<g transform="translate(20, 20)">
+<g data-name="app">
+<g fill="lightblue" stroke="#33322E" data-name="app">
+<rect x="0.0" y="0.0" height="190.0" width="303.0" data-name="app"></rect>
+<path d="M0.0 31.0 L303.0 31.0" fill="none" data-name="app"></path>
+<path d="M0.0 182.0 L303.0 182.0" fill="none" data-name="app"></path>
+</g>
+<g transform="translate(0, 0)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="app">
+<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="app">
+<a id="../application/services/diagrams/serviceModels/app.ts.app" xlink:href="../application/services/diagrams/serviceModels/app.ts"><text x="143.5" y="13.5" stroke="none" text-anchor="middle" data-name="app">app</text></a>
+
+</g>
+</g>
+<g transform="translate(0, 31)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="app">
+<g transform="translate(8, 8)" fill="#33322E" text-align="left" data-name="app">
+<text x="0.0" y="13.5" stroke="none" data-name="app">+created_date_at: { type: Date</text>
+<text x="0.0" y="28.5" stroke="none" data-name="app">}</text>
+<text x="0.0" y="43.5" stroke="none" data-name="app">+created_by: { type: String</text>
+<text x="0.0" y="58.5" stroke="none" data-name="app">}</text>
+<text x="0.0" y="73.5" stroke="none" data-name="app">+last_modified_by: { type: String</text>
+<text x="0.0" y="88.5" stroke="none" data-name="app">}</text>
+<text x="0.0" y="103.5" stroke="none" data-name="app">+last_modified_date_at: { type: Date</text>
+<text x="0.0" y="118.5" stroke="none" data-name="app">}</text>
+<text x="0.0" y="133.5" stroke="none" data-name="app">+name: String</text>
+
+</g>
+</g>
+<g transform="translate(0, 182)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="app">
+<g transform="translate(8, 8)" fill="#33322E" data-name="app">
+
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

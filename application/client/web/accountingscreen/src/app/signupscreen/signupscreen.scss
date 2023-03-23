@@ -1,0 +1,405 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+.gjs-row {
+    display: flex;
+    justify-content: flex-start;
+    align-items: stretch;
+    flex-wrap: nowrap;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.gjs-cell {
+    min-height: 75px;
+    flex-grow: 1;
+    flex-basis: 100%;
+}
+
+#template-io7z {
+    flex-wrap: wrap;
+    min-height: auto;
+    display: block;
+    text-align: center;
+    margin-top: 100px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+}
+
+#template-ibur {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    flex-wrap: wrap;
+    margin-top: 0px;
+    margin-right: 100px;
+    margin-bottom: 0px;
+    margin-left: 100px;
+}
+
+#template-i07ch {
+    color: black;
+    width: 30%;
+    height: 50%;
+}
+
+#template-is0h {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#template-ine2o {
+    align-items: center;
+    justify-content: center;
+    transform: translateX(0px) translateY(0px);
+    min-height: auto;
+}
+
+#template-i7mju {
+    flex-basis: 50%;
+    min-height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: rgb(208, 208, 208);
+    border-right-color: rgb(208, 208, 208);
+    border-bottom-color: rgb(208, 208, 208);
+    border-left-color: rgb(208, 208, 208);
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+#template-igolf {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-right: 350px;
+    margin-bottom: 0px;
+    margin-left: 350px;
+}
+
+#template-i14nk {
+    color: black;
+    width: 40px;
+}
+
+#template-irhkf {
+    font-size: 15px;
+    color: rgb(4, 4, 4);
+    font-family: Helvetica, sans-serif;
+}
+
+#template-inbe9 {
+    flex-basis: 50%;
+    display: flex;
+    margin-top: 0px;
+    margin-right: 50px;
+    margin-bottom: 0px;
+    margin-left: 50px;
+}
+
+#template-ijga5 {
+    flex-basis: 50%;
+    display: flex;
+    margin-top: 0px;
+    margin-right: 50px;
+    margin-bottom: 0px;
+    margin-left: 50px;
+}
+
+#template-iho1t {
+    display: flex;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+#template-imvki {
+    flex-basis: 50%;
+    display: flex;
+    margin-top: 0px;
+    margin-right: 50px;
+    margin-bottom: 0px;
+    margin-left: 50px;
+}
+
+#template-iai8w {
+    flex-basis: 50%;
+    display: flex;
+    margin-top: 0px;
+    margin-right: 50px;
+    margin-bottom: 0px;
+    margin-left: 50px;
+}
+
+#template-idvp8 {
+    display: flex;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+#template-ixis9 {
+    background-color: rgb(255, 255, 255);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: rgb(208, 208, 208);
+    border-right-color: rgb(208, 208, 208);
+    border-bottom-color: rgb(208, 208, 208);
+    border-left-color: rgb(208, 208, 208);
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+}
+
+#template-ifuh7 {
+    flex-basis: 50%;
+    display: flex;
+    margin-top: 0px;
+    margin-right: 50px;
+    margin-bottom: 0px;
+    margin-left: 50px;
+    min-height: auto;
+}
+
+#template-il7xq {
+    background-color: rgb(255, 255, 255);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: rgb(208, 208, 208);
+    border-right-color: rgb(208, 208, 208);
+    border-bottom-color: rgb(208, 208, 208);
+    border-left-color: rgb(208, 208, 208);
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+}
+
+#template-iwboh {
+    flex-basis: 50%;
+    display: flex;
+    margin-top: 0px;
+    margin-right: 50px;
+    margin-bottom: 0px;
+    margin-left: 50px;
+    min-height: auto;
+}
+
+#template-ioqpx {
+    display: flex;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+#template-issvi {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-family: Georgia, serif;
+    font-size: 13px;
+}
+
+#template-iuhli {
+    width: 20px;
+    height: 20px;
+}
+
+#template-ikbml {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    font-family: Helvetica, sans-serif;
+}
+
+#template-ihqp9 {
+    display: inline-block;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    min-width: 50px;
+    color: rgb(109, 132, 255);
+    font-family: Helvetica, sans-serif;
+}
+
+#template-i0y5g {
+    font-family: Helvetica, sans-serif;
+}
+
+#template-imjh6 {
+    display: inline-block;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    min-width: 50px;
+    color: rgb(109, 132, 255);
+    font-family: Helvetica, sans-serif;
+}
+
+#template-ixp92 {
+    display: flex;
+    min-height: auto;
+    align-items: center;
+}
+
+#template-ilwtk {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+#template-izhoo {
+    flex-basis: 50%;
+    display: block;
+    flex-wrap: wrap;
+    margin-top: 0px;
+    margin-right: 50px;
+    margin-bottom: 0px;
+    margin-left: 50px;
+}
+
+#template-if1j8 {
+    width: 100%;
+    height: 50px;
+    background-color: rgb(109, 132, 255);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+#template-ily9v {
+    display: flex;
+    flex-basis: 50%;
+    transform: translateX(0px) translateY(0px);
+    margin-top: 0px;
+    margin-right: 50px;
+    margin-bottom: 0px;
+    margin-left: 50px;
+    min-height: auto;
+    align-items: flex-end;
+}
+
+#template-iyiz8 {
+    display: flex;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+#template-i8bxf {
+    flex-wrap: wrap;
+}
+
+#template-i4t79 {
+    color: rgb(6, 6, 6);
+    font-weight: 600;
+    font-size: 20px;
+}
+
+#template-ivffn {
+    display: flex;
+    min-height: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#template-iohcl {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+#template-i1ve4 {
+    color: rgb(55, 55, 55);
+    font-family: Helvetica, sans-serif;
+}
+
+#template-il40s {
+    display: inline-block;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    min-width: 50px;
+    color: rgb(109, 132, 255);
+}
+
+@media (max-width: 768px) {
+    .gjs-row {
+        flex-wrap: wrap;
+    }
+}
